@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-bowman-game/static/css/main.799e85e5.css",
+    "main.js": "/react-bowman-game/static/js/main.f574db87.js",
+    "static/js/453.6e51633a.chunk.js": "/react-bowman-game/static/js/453.6e51633a.chunk.js",
+    "index.html": "/react-bowman-game/index.html",
+    "main.799e85e5.css.map": "/react-bowman-game/static/css/main.799e85e5.css.map",
+    "main.f574db87.js.map": "/react-bowman-game/static/js/main.f574db87.js.map",
+    "453.6e51633a.chunk.js.map": "/react-bowman-game/static/js/453.6e51633a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799e85e5.css",
+    "static/js/main.f574db87.js"
+  ]
+}
